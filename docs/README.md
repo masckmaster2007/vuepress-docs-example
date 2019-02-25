@@ -3,4 +3,5 @@
 Other things
 {{ 1 + 1 }}
 
-<HelloWorld msg="Amazing"></HelloWorld>
+<HelloWorld msg="Not work"></HelloWorld>
+<Works msg="Work"></Works>
